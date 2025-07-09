@@ -1,0 +1,28 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+venv/
+.env/
+*.env
+
+# PyInstaller
+build/
+dist/
+*.spec
+*.exe
+
+# SQLite DB (optional, falls du keine Beispieldaten mitgeben willst)
+*.db
+
+# VS Code settings (optional)
+.vscode/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
